@@ -5,7 +5,6 @@
 [![Discord](https://img.shields.io/discord/442107660955942932)](https://discord.gg/9njYXGY)  
 
 TTT2 is an updated version of the TTT gamemode for [Garry's Mod](https://gmod.facepunch.com/).
-t
 
 Find [TTT2 on Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1357204556)
 
